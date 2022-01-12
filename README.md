@@ -11,6 +11,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=buivandong1&theme=tokyonight&show_icons=true"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buivandong1&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
  
 ![](https://komarev.com/ghpvc/?username=buivandong1&style=flat-square&color=brightgreen)
