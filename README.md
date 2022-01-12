@@ -1,13 +1,16 @@
 [![Discord](https://img.shields.io/discord/734000916096876566?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/C73ppqfQNh)
 
-# **Contact Me**
-> 💬 [**Here**](https://m.me/DREY0912)
 
-### **Social Network**
- • [Facebook](https://www.facebook.com/DREY0912)
 
- • [Twitch](https://m.twitch.tv/dong_drey) 
+## **Contact Me**
+  [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/DREY0912/)
 
- • [Instagram](https://www.instagram.com/dong_drey/) 
+
+   [![Email](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&color=ff1800&logoColor=white)](mailto:contact.hongduc@gmail.com)
+## **Github**
 
 <img src="https://github-readme-stats.vercel.app/api?username=buivandong1&theme=tokyonight&show_icons=true"> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+ 
+![](https://komarev.com/ghpvc/?username=buivandong1&style=flat-square&color=brightgreen)
