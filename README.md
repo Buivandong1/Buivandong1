@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/734000916096876566?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/C73ppqfQNh)
+
 # **Contact Me**
 > 💬 [**Here**](https://m.me/DREY0912)
 
