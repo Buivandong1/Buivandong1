@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237EF736&center=th%E1%BA%ADt&vCenter=th%E1%BA%ADt&lines=Hello%2C+tui+l%C3%A0+%C4%90%C3%B4ng+)](https://git.io/typing-svg)
 [![Discord](https://img.shields.io/discord/734000916096876566?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/C73ppqfQNh)
 
 
